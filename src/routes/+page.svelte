@@ -1,6 +1,7 @@
 <svelte:head>
 	<title>Gonzo</title>
 	<meta name="description" content="Journalism technology." />
+	<meta name="format-detection" content="telephone=no">
 </svelte:head>
 
 <h1>01110111 01100001 01101001 01110100</h1>
