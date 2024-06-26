@@ -1,17 +1,22 @@
 <svelte:head>
-	<title>01100111 01101111 01101110 01111010 01101111</title>
+	<title>Gonzo</title>
+	<meta name="description" content="Journalism technology." />
 </svelte:head>
 
-<h1>01100111 01101111 01101110 01111010 01101111</h1>
+<h1>01110111 01100001 01101001 01110100</h1>
 
 <style>
 	h1 {
+		font-family: 'Fira Code', 'Courier New', monospace;
+		font-weight: 300;
 		position: absolute;
 		text-align: center;
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		font-family: 'Courier New', Courier, monospace;
 		color: lightgray;
+		text-shadow:
+			0 0 5px #b2b2b2,
+			0 0 10px #fff;
 	}
 </style>
