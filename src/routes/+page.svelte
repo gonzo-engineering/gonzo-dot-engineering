@@ -33,9 +33,8 @@
 		>. It all adds up.
 	</p>
 	<p>
-		Want to collaborate? <a href="https://github.com/gonzo-engineering/">Get involved</a>
-		or
-		<a href="mailto:frederik.obrien@gmail.com">get in touch</a>.
+		Want to collaborate? <a href="mailto:frederik.obrien@gmail.com">Get in touch</a> or
+		<a href="https://github.com/gonzo-engineering/">get involved</a>.
 	</p>
 	<p>In solidarity,</p>
 	<p>Frederick<span class="flashing-underscore">_</span></p>
