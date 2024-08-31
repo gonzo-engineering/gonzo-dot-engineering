@@ -29,7 +29,7 @@
 		>. It all adds up.
 	</p>
 	<p>
-		Want to collaborate? <a href="https://github.com/gonzo-engineering/">Join me on GitHub</a>
+		Want to collaborate? <a href="https://github.com/gonzo-engineering/">Get involved</a>
 		or
 		<a href="mailto:frederik.obrien@gmail.com">get in touch</a>.
 	</p>
