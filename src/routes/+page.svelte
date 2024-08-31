@@ -1,10 +1,13 @@
 <svelte:head>
 	<title>Gonzo Engineering</title>
-	<meta name="description" content="Freak technology." />
+	<meta
+		name="description"
+		content="Building free, open source tools for journalists, musicians, and other members of the freak kingdom."
+	/>
 </svelte:head>
 
 <main>
-	<p>The web is decedent and depraved.</p>
+	<h2>The Web Is Decedent and Depraved</h2>
 	<p>
 		Gonzo Engineering is a project devoted to building free, open source tools for the benefit of
 		journalists, musicians, and other members of the freak kingdom.
@@ -17,7 +20,7 @@
 		</li>
 		<li>
 			<a href="https://github.com/gonzo-engineering/soli">Soli</a>, a 'just add water' toolkit for
-			immersive musician websites
+			building musician websites
 		</li>
 	</ul>
 	<p>
@@ -30,12 +33,17 @@
 		or
 		<a href="mailto:frederik.obrien@gmail.com">get in touch</a>.
 	</p>
+	<p>In solidarity,</p>
+	<p>Frederick<span class="flashing-underscore">_</span></p>
 </main>
 
 <style>
+	h2 {
+		font-size: 1.5em;
+		margin-bottom: 1em;
+	}
 	main {
 		padding: 1em;
-		/* text-transform: lowercase; */
 		text-shadow: 0 0 5px #c8c8c8;
 	}
 	a {
@@ -60,6 +68,20 @@
 			left: 50%;
 			transform: translate(-50%, -50%);
 			max-width: 800px;
+		}
+	}
+	.flashing-underscore {
+		animation: flashing-underscore 1.5s infinite;
+	}
+	@keyframes flashing-underscore {
+		0% {
+			opacity: 1;
+		}
+		50% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
 		}
 	}
 </style>
