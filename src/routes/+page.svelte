@@ -1,3 +1,7 @@
+<script>
+	import schema from '$lib/data/schema-org.json';
+</script>
+
 <svelte:head>
 	<title>Gonzo Engineering</title>
 	<meta
@@ -36,6 +40,8 @@
 	<p>In solidarity,</p>
 	<p>Frederick<span class="flashing-underscore">_</span></p>
 </main>
+
+{@html `<script type="application/ld+json">${JSON.stringify(schema)}</script>`}
 
 <style>
 	h2 {
