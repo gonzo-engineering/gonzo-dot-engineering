@@ -28,9 +28,12 @@
 		</li>
 	</ul>
 	<p>
-		Support the development of these tools and more by <a
-			href="https://opencollective.com/gonzo-engineering">becoming a backer on Open Collective</a
-		>. It all adds up.
+		Support the development of these tools and more by <a href="https://ko-fi.com/frederickobrien"
+			>buying me a coffee</a
+		>
+		or
+		<a href="https://opencollective.com/gonzo-engineering">becoming a backer on Open Collective</a>.
+		It all adds up.
 	</p>
 	<p>
 		Want to collaborate? <a href="mailto:frederik.obrien@gmail.com">Get in touch</a> or
