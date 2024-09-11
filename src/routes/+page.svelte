@@ -46,10 +46,6 @@
 {@html `<script type="application/ld+json">${JSON.stringify(schema)}</script>`}
 
 <style>
-	h2 {
-		font-size: 1.5em;
-		margin-bottom: 1em;
-	}
 	main {
 		padding: 1em;
 	}
