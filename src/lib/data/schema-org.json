@@ -1,32 +1,22 @@
 {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Gonzo Engineering",
-    "description": "A project devoted to building free, open-source tools for the benefit of journalists, musicians, and other creatives.",
-    "url": "https://gonzo.engineering",
-    "keywords": [
-        "open source",
-        "free tools",
-        "journalism",
-        "music",
-        "creative projects",
-        "gonzo"
-    ],
-    "sameAs": [
-        "https://github.com/gonzo-engineering",
-        "https://opencollective.com/gonzo-engineering"
-    ],
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://gonzo.engineering"
-    },
-    "founder": {
-        "@type": "Person",
-        "name": "Frederick O'Brien",
-        "url": "https://frederickobrien.com",
-        "sameAs": [
-            "https://twitter.com/yagayagafred",
-            "https://github.com/frederickobrien"
-        ]
-    }
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "Gonzo Engineering",
+	"description": "A project devoted to building free, open-source tools for the benefit of journalists, musicians, and other creatives.",
+	"url": "https://gonzo.engineering",
+	"keywords": ["open source", "free tools", "journalism", "music", "creative projects", "gonzo"],
+	"sameAs": [
+		"https://github.com/gonzo-engineering",
+		"https://opencollective.com/gonzo-engineering"
+	],
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "https://gonzo.engineering"
+	},
+	"founder": {
+		"@type": "Person",
+		"name": "Frederick O'Brien",
+		"url": "https://frederickobrien.com",
+		"sameAs": ["https://twitter.com/yagayagafred", "https://github.com/frederickobrien"]
+	}
 }

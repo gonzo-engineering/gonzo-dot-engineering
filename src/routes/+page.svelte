@@ -52,13 +52,6 @@
 	}
 	main {
 		padding: 1em;
-		text-shadow: 0 0 5px #c8c8c8;
-	}
-	a {
-		font-weight: bold;
-	}
-	a:hover {
-		opacity: 0.8;
 	}
 	ul {
 		list-style-type: none;
