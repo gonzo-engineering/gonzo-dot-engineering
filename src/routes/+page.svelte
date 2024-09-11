@@ -11,7 +11,7 @@
 </svelte:head>
 
 <main>
-	<h2>The Web Is Decedent and Depraved</h2>
+	<h2>The Web Is Decadent and Depraved</h2>
 	<p>
 		Gonzo Engineering is a project devoted to building free, open source tools for the benefit of
 		journalists, musicians, and other members of the freak kingdom.
