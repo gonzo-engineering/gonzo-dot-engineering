@@ -4,6 +4,10 @@
 	<div><a href="/">Move</a> ></div>
 </div>
 
+<svelte:head>
+    <title>404 _ Gonzo Engineering</title>
+</svelte:head>
+
 <style>
 	.message-container {
 		position: absolute;
