@@ -5,7 +5,7 @@
 </div>
 
 <svelte:head>
-    <title>404 _ Gonzo Engineering</title>
+	<title>Error | Gonzo Engineering</title>
 </svelte:head>
 
 <style>
@@ -21,7 +21,7 @@
 		flex-direction: column;
 		width: 90%;
 	}
-    .message {
-        margin-bottom: 1em;
-    }
+	.message {
+		margin-bottom: 1em;
+	}
 </style>
