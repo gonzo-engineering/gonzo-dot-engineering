@@ -1,10 +1,13 @@
 <script>
 	import '$lib/styles/reset.css';
 	import '$lib/styles/global.css';
+	import Screen from '$lib/components/Screen.svelte';
 </script>
 
 <svelte:head>
-    <meta name="theme-color" content="black" />
+	<meta name="theme-color" content="black" />
 </svelte:head>
 
-<slot />
+<Screen>
+	<slot />
+</Screen>
