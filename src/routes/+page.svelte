@@ -26,6 +26,10 @@
 			<a href="https://github.com/gonzo-engineering/soli">Soli</a>, a 'just add water' toolkit for
 			building musician websites
 		</li>
+		<li>
+			<a href="https://github.com/gonzo-engineering/dummy">Dummy</a>, a miniature tech stack for
+			shoestring news publishing
+		</li>
 	</ul>
 	<p>
 		Support the development of these tools and more by <a href="https://ko-fi.com/frederickobrien"
