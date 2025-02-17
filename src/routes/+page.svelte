@@ -23,7 +23,7 @@
 			shorthand
 		</li>
 		<li>
-			<a href="https://github.com/gonzo-engineering/scena">Scena</a>, a 'just add water' toolkit for
+			<a href="https://github.com/gonzo-engineering/skene">Skene</a>, a 'just add water' toolkit for
 			building musician websites
 		</li>
 		<li>
