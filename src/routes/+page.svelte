@@ -13,27 +13,31 @@
 <main>
 	<h2>The Web Is Decadent and Depraved</h2>
 	<p>
-		Gonzo Engineering is a project devoted to building free, open source tools for the benefit of
-		journalists, musicians, and other members of the freak kingdom.
+		Gonzo Engineering is devoted to building free, open source tools for the benefit of journalists,
+		musicians, and other members of the freak kingdom.
 	</p>
 	<p>Ventures so far:</p>
 	<ul>
 		<li>
-			<a href="https://teeline.online">teeline.online</a>, an interactive learning site for Teeline
+			<a href="https://teeline.online">teeline.online</a> - an interactive learning site for Teeline
 			shorthand
 		</li>
 		<li>
-			<a href="https://github.com/gonzo-engineering/skene">Skene</a>, a 'just add water' toolkit for
-			building musician websites
+			<a href="https://soli.network">Soli</a> - music streaming with direct, transparent remuneration
+			for artists
 		</li>
 		<li>
-			<a href="https://github.com/gonzo-engineering/dummy">Dummy</a>, a miniature tech stack for
-			shoestring news publishing
+			<a href="https://github.com/gonzo-engineering/skene">Skene</a> - a 'just add water' template for
+			musician websites
+		</li>
+		<li>
+			<a href="https://github.com/gonzo-engineering/dummy">Dummy</a> - a miniature tech stack for shoestring
+			news publishing
 		</li>
 	</ul>
 	<p>
-		Support the development of these tools and more by <a href="https://ko-fi.com/frederickobrien"
-			>buying me a coffee</a
+		Support the development of these projects and more by <a
+			href="https://ko-fi.com/frederickobrien">buying me a coffee</a
 		>
 		or
 		<a href="https://opencollective.com/gonzo-engineering">becoming a backer on Open Collective</a>.
